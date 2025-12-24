@@ -1,6 +1,5 @@
 cff-version: 1.0
-message: "If you use this models, please cite it as below."
-type: dataset
+message: "If you use these models, please cite them as below."
 authors:
 - family-names: "Hernández Pedraza"
   given-names: "Yanet"
@@ -9,3 +8,5 @@ title: "HRT Jean Calvin"
 version: 2.0.4
 date-released: 2025-12-23
 url: "https://github.com/pippaJeanne/HTR-Jean-Calvin"
+preferred-citation:
+  type: dataset
