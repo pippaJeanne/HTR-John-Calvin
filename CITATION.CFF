@@ -1,5 +1,6 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+cff-version: 1.0
+message: "If you use this models, please cite it as below."
+type: dataset
 authors:
 - family-names: "Hernández Pedraza"
   given-names: "Yanet"
